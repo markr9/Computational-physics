@@ -13,7 +13,9 @@ ex1p6: particle in a 3-D box wavefunction plot for the 2,1,1 quantum state.
 ex1p7: simple non-linear pendulum plot.
 ex1p8: 2-D projectile motion plot.
 lpoly: plots Legendre polynomials.
-planckfndiff: solves value for planck function
+meshgrid_eg: meshgrid example. 
+myfun: function test.
+planckfndiff: solves value for planck function.
 planckfnint: planck function integration.
 sin2: plots sin(x)^2.
 
@@ -30,9 +32,13 @@ ex2p8p2: plots quasiperodicty.
 
 
 optical
+narrowslit: Fraunhofer diffraction pattern plot for 3 slit widths. 
+ntest: theta test for min and max points.  
 ivw: Bessel fuction Airry diffraction pattern. 
 besselfn: plots the J0 and J1 Matlab Bessel functions.
 thetafromw: finds theta from the w values (max, min, J=0 points of J0(x=w)).
+multitest: finds theta values for tall maxima (multi slit diffraction). 
+ndiff: plots multi slit diffration (5 and 10) at 2 wavelengths.
 fint: plots the Fresnel integrals.
 cspiral: plots the Cornu spiral.
 
