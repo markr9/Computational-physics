@@ -12,6 +12,10 @@ ex1p5: plots circular helix.
 ex1p6: particle in a 3-D box wavefunction plot for the 2,1,1 quantum state.
 ex1p7: simple non-linear pendulum plot.
 ex1p8: 2-D projectile motion plot.
+lpoly: plots Legendre polynomials.
+planckfndiff: solves value for planck function
+planckfnint: planck function integration.
+sin2: plots sin(x)^2.
 
 
 non lin
@@ -35,8 +39,8 @@ cspiral: plots the Cornu spiral.
 quantun
 
 tun: plots the transmittance probablity of an electron. 
-ev: finds the transmission probability of an electron for given energy. 
-finds the resonance energy values for the electrons.
+ev: finds the transmission coefficient of an electron for given energy. 
+res: finds the resonance energy values for the electrons.
 
 wavefuns: plots the radial wavefunction and probability values of a hydrogen atom for various n and l values. 
 avrv: calculates the mean value of the radial probablity of the electron wavefunciton in a hydrogen atom with 4 different sets of quantum numbers.
