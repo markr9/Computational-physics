@@ -1,7 +1,7 @@
 Non-linear dynamics
 
-ws2ti: plots simple non-linear pendulum.
-ex2p1: plots simple non-linear damped pendulum.
+ws2ti: plots a simple non-linear pendulum motion graph.
+ex2p1: plots a simple non-linear damped pendulum motion graph.
 e2p2: calculates the inital energy of a damped non-linear pendulum.
 ex2p4: plots various inverted pendulums configurations. 
 ex2p5: plots the Rayleigh's equation.
